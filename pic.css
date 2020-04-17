@@ -1,0 +1,22 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Lalezar', cursive;
+  background: url(https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-9/85175336_2593257420950595_2389893131194597376_n.jpg?_nc_cat=108&_nc_sid=7aed08&_nc_oc=AQnrZriXNfEdio8WgStlBAp3bEDY_hHWy9ID6lb6nndZC0oRrdQv04x91-1LPJhNpJU&_nc_ht=scontent-mad1-1.xx&oh=0336d557d94bd5ad9c17cff43422adc1&oe=5EBC74C4) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+} 
+
+  .buffer {
+	height: 450px;
+	
+} 
+
+h1 {
+	text-align: center;
+	color: white;
+	background-color: #2125298c;
+}
